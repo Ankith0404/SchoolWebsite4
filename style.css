@@ -67,4 +67,7 @@ height: 30px;
     height:30%;
     width:30%;
 }
+html{
+    scroll-behavior: smooth;
+}
 }
